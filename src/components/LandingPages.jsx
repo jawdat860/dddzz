@@ -10,7 +10,7 @@ import iconShare from "../assets/ico/ico-share.svg"
 import iconNelegram from "../assets/ico/ico-telegram.svg"
 import iconUserIco from "../assets/ico/ico-logo-genn.svg"
 import WebApp from "@twa-dev/sdk"; // Assuming this package works in JavaScript
-const TG_BOT_TOKEN = "7347780887:AAGiNI5Pvs1iHHONlBV3zQibnC_UFm7slys"; // Replace with your actual Bot Token
+const TG_BOT_TOKEN = ""; // Replace with your actual Bot Token
 
 const LandingPages = () => {
   const [userPhotoUrl, setUserPhotoUrl] = useState(iconUserIco); // Default icon
